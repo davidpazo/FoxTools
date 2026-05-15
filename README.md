@@ -108,7 +108,7 @@ Features, UI and internal systems may change between releases.
 
 ## Source Code
 
-At this stage, FoxTools binaries are distributed publicly while the source code remains private.
+At this stage, FoxTools binaries are distributed publicly while source code is currently private.
 
 The long-term goal is to build a stable, feature-complete platform before evaluating possible future openness for selected components.
 
@@ -165,3 +165,5 @@ Special thanks to the Nintendo Switch homebrew community.
 All rights reserved.
 
 Unauthorized redistribution, modification or reverse engineering of FoxTools binaries may be restricted in future releases.
+
+FoxTools and its assets may not be redistributed, modified or repackaged without permission.
