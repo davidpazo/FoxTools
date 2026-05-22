@@ -74,16 +74,16 @@ FoxTools aims to provide a polished and reliable experience for power users whil
 ## App Images
 
 <p align="center">
-  <img src="foxtools.jpg" width="180" alt="FoxTools Logo">
+  <img src="foxtools.jpg" alt="FoxTools Logo">
 </p>
 <p align="center">
-  <img src="foxtools blue.jpg" width="180" alt="FoxTools Logo">
+  <img src="foxtools blue.jpg"alt="FoxTools Logo">
 </p>
 <p align="center">
-  <img src="foxtools bw.jpg" width="180" alt="FoxTools Logo">
+  <img src="foxtools bw.jpg" alt="FoxTools Logo">
 </p>
 <p align="center">
-  <img src="fox tools language.jpg" width="180" alt="FoxTools Logo">
+  <img src="fox tools language.jpg" alt="FoxTools Logo">
 </p>
 
 
