@@ -4,7 +4,7 @@ Modern homebrew utility suite and file manager for Nintendo Switch
 # FoxTools
 
 <p align="center">
-  <img src="assets/icon.png" width="180" alt="FoxTools Logo">
+  <img src="icon.jpg" width="180" alt="FoxTools Logo">
 </p>
 
 <p align="center">
@@ -71,6 +71,21 @@ FoxTools aims to provide a polished and reliable experience for power users whil
 * Advanced system tools (planned)
 
 ---
+## App Images
+
+<p align="center">
+  <img src="foxtools.jpg" width="180" alt="FoxTools Logo">
+</p>
+<p align="center">
+  <img src="foxtools blue.jpg" width="180" alt="FoxTools Logo">
+</p>
+<p align="center">
+  <img src="foxtools bw.jpg" width="180" alt="FoxTools Logo">
+</p>
+<p align="center">
+  <img src="fox tools language.jpg" width="180" alt="FoxTools Logo">
+</p>
+
 
 ## Installation
 
